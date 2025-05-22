@@ -1,0 +1,6 @@
+<Image
+  src="/virtual-reality.jpg"
+  fill
+  style={{ objectFit: 'cover' }}
+  alt="virtual-reality"
+/>
